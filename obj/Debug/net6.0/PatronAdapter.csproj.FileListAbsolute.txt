@@ -1,0 +1,15 @@
+C:\Users\Francisco Rafael\Desktop\PatronAdapter\bin\Debug\net6.0\PatronAdapter.exe
+C:\Users\Francisco Rafael\Desktop\PatronAdapter\bin\Debug\net6.0\PatronAdapter.deps.json
+C:\Users\Francisco Rafael\Desktop\PatronAdapter\bin\Debug\net6.0\PatronAdapter.runtimeconfig.json
+C:\Users\Francisco Rafael\Desktop\PatronAdapter\bin\Debug\net6.0\PatronAdapter.dll
+C:\Users\Francisco Rafael\Desktop\PatronAdapter\bin\Debug\net6.0\PatronAdapter.pdb
+C:\Users\Francisco Rafael\Desktop\PatronAdapter\obj\Debug\net6.0\PatronAdapter.csproj.AssemblyReference.cache
+C:\Users\Francisco Rafael\Desktop\PatronAdapter\obj\Debug\net6.0\PatronAdapter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Francisco Rafael\Desktop\PatronAdapter\obj\Debug\net6.0\PatronAdapter.AssemblyInfoInputs.cache
+C:\Users\Francisco Rafael\Desktop\PatronAdapter\obj\Debug\net6.0\PatronAdapter.AssemblyInfo.cs
+C:\Users\Francisco Rafael\Desktop\PatronAdapter\obj\Debug\net6.0\PatronAdapter.csproj.CoreCompileInputs.cache
+C:\Users\Francisco Rafael\Desktop\PatronAdapter\obj\Debug\net6.0\PatronAdapter.dll
+C:\Users\Francisco Rafael\Desktop\PatronAdapter\obj\Debug\net6.0\refint\PatronAdapter.dll
+C:\Users\Francisco Rafael\Desktop\PatronAdapter\obj\Debug\net6.0\PatronAdapter.pdb
+C:\Users\Francisco Rafael\Desktop\PatronAdapter\obj\Debug\net6.0\PatronAdapter.genruntimeconfig.cache
+C:\Users\Francisco Rafael\Desktop\PatronAdapter\obj\Debug\net6.0\ref\PatronAdapter.dll
